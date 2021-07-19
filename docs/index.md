@@ -1,89 +1,92 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Nate De Kock Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Nate De Kock
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="dek18001@byui.edu">Email</a>
+| <a href="https://www.linkedin.com/in/natedekock/">LinkedIn</a>
+| <a href="https://github.com/Natedekock">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+_Brigham Young University - Idaho_, Rexburg, ID `2019-2022`
 
-- Full academic scholarship with 4.0 GPA
+- Minor: Data Science.
+- 3.7 Major GPA
+- Technical skills: Certificate of Excellence- Harvard Excel Spreadsheet Modelling, Power BI, R.  
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Related Work Experience
 
-- 4.0 Major GPA
+### Data Analyst Intern
 
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+_Pathway Worldwide_, Salt Lake City, UT `September 2021 - December 2021`
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
 
-### Data Science Lead
+### Data Analyst (Part-time)
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2021 - September 2021`
+_Brigham Young University - Idaho_, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Automated the data collection and wrangling process using an R script and an API connecting Qualtrics to *R* to *Power BI*.  
+- Wrote DAX code to glean actionable insights from survey data. 
+- Frequently presented my findings to the Education Department through story telling techniques. 
 
 
-## Service and Work History
+### Teaching Assistant- Spreadsheet Analysis
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`September 2020 - January 2021`
+_Brigham Young University - Idaho_, Rexburg, ID
+
+- Improved grading accuracy by 21% by creating the first ever automated rubric.  
+- Graded over 200 *Excel* Spreadsheets related to projects involving VLOOKUP’s/HLOOKUP’s, Pivot Tables, and Macros.  
+ 
+
+### Data Analyst (Freelance)
+
+`November 2020 - February 2021`
+_Tardis Group Pty Ltd_, London, UK
+
+- Advanced the lead recruiter’s recruitment process by developing a user-friendly Customer Relationship Management dashboard using *Power BI*. 
+
+### Verification Analyst
+
+`April 2019 - December 2020`
+_Brigham Young University - Idaho_, Rexburg, ID
+
+- Increased the Standard Operating Procedure efficiency by creating an advanced Macro *Excel* worksheet, which analyzed verification related criteria. 
+- Played a crucial role in training four new employees. 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Small Business Owner
 
+`April 2019 - December 2020`
+_Get On Board_, Rexburg, ID
+
+- Built the company’s customer database with MySQL. 
+
+## Volunteer Experience
+
+### Service Missionary
+
+`March 2016 - March 2018`
+_The Church of Jesus Christ of Latter-Day Saints_, England
+
+- Planned and conducted group meetings of up to 200 volunteers on ethics, communication, and teaching skills.
+
+## Projects 
+
+- Received over 450 reactions on LinkedIn soccer team analysis using Excel VBA and formulas. 
+git config --global user.name "FIRST_NAME LAST_NAME"
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
