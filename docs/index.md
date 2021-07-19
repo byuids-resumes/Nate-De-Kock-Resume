@@ -24,11 +24,11 @@ _Brigham Young University - Idaho_, Rexburg, ID `2019-2022`
 
 ### Data Analyst Intern
 
-_Pathway Worldwide_, Salt Lake City, UT `September 2021 - December 2021`
+_Pathway Worldwide_, Salt Lake City, UT `July 2021- December 2021`
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Wrangled data from websites, data warehouse, Qualtrics surveys, APIs & flat files.
+- Used the data in statistical analyses and to build reports and dashboards in Power BI.
+- Met regularly with stakeholders online in MS Teams or Zoom meetings to get feedback, share progress, and deliver results. 
 
 ### Data Analyst (Part-time)
 
