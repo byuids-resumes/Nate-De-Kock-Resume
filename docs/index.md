@@ -84,7 +84,7 @@ _The Church of Jesus Christ of Latter-Day Saints_, England
 ## Projects 
 
 - Received over 450 reactions on LinkedIn soccer team analysis using Excel VBA and formulas. 
-git config --global user.name "FIRST_NAME LAST_NAME"
+
 
 
 <!-- ### Footer
